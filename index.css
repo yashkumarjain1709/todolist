@@ -1,0 +1,21 @@
+body{
+    background-color: lightskyblue;
+    color:magenta;
+    text-align: center
+}
+#inputbox{
+    height:50px;
+    width:500px;
+    color:red;
+}
+#hi{
+    height: 80px;
+    
+    color:purple;
+}
+#add{
+    background-color: aqua;
+}
+#line{
+    color:purple;
+}
